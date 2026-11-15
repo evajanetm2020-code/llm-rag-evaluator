@@ -1,0 +1,4 @@
+ID,Pergunta,Nota (1-5),Alucinação?,Latência (s),Justificativa
+1,Qual é o prazo para devolução de produtos?,5,False,40.26,"A resposta parafraseia com total precisão as informações de prazo e condições presentes no contexto, sem introduzir dados externos."
+2,O frete de devolução é gratuito?,1,True,7.75,"A resposta inventa a informação de que o frete é gratuito para todo o país, dado que não está presente no contexto fornecido."
+3,Qual o horário de atendimento do suporte?,5,False,267.71,"A resposta reproduz com precisão e fidelidade todas as informações sobre dias, horários e canal de atendimento presentes no contexto, sem adicionar dados externos."
